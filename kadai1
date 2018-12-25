@@ -6,7 +6,7 @@
 
 clear; % 変数のオールクリア
 
-ORG=imread('aaa.png'); % 原画像の入力
+ORG=imread('https://pbs.twimg.com/profile_images/378800000220029324/fe66faeca20115da8566e51d83447ead_400x400.jpeg'); % 原画像の入力
 imagesc(ORG); axis image; % 画像の表示
 pause; % 一時停止
 
